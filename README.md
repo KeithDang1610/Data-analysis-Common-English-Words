@@ -60,7 +60,9 @@ In the other ranges.
 
 ## Conclusion
 I used two datasets on Kaggle; however, only one had a credibility score above 7.0, while the other had a low score, which can introduce bias and sometimes lead to misleading results. Nevertheless, it is still useful if they are used as a reference for English learning materials. Both datasets contain numerous errors, Null values, and redundancies, requiring extensive  cleaning and processing to improve the data for analysis and visualization.
+
 I selected a range from 400 to 5000 words based on their frequency of use. This range allows learners to communicate fluently in daily conversation without learning excessive unnecessary words. Throughout my analysis, I concluded that knowing many extraordinary words such as those with 6 or 7 syllables, is superfluous for daily conversation. Instead,  it is more beneficial to learn shorter words, primarily those with 2, 3, and 4 syllables. Additionally, nouns make up the largest proportion of common English words, followed by adjectives and verbs. 
+
 As a non-native English speaker, this aggregated table could be valuable for expanding my vocabulary and focusing essential range of words, ultimately enhancing my communication skills in daily conversation.
 
 
